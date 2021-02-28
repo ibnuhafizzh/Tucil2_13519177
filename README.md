@@ -8,5 +8,7 @@ Program ini adalah program yang dapat menyelesaikan persoalan menentukan mata ku
 
 ## Author
 Nama  : M. Ibnu Syah Hafizh
+
 NIM   : 13519177
+
 Kelas : K-04
